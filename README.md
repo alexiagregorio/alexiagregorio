@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning Python and JavaScript
 - 😄 Pronouns: she/her
+- ⚡ Fun facts: INTJ, Ravenclaw
 
 <!--
 <div>
