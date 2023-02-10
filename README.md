@@ -36,9 +36,8 @@
 
 ##
  
-<!-- ![Snake animation](https://github.com/alexiagregorio/alexiagregorio/blob/output/github-contribution-grid-snake.svg) -->
-  <!--novo-->
-![snake gif](https://github.com/alexiagregorio/alexiagregorio/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/alexiagregorio/alexiagregorio/blob/output/github-contribution-grid-snake.svg) 
+![snake gif](https://github.com/alexiagregorio/alexiagregorio/blob/output/github-contribution-grid-snake.svg) -->
 
 
 
