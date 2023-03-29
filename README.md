@@ -15,9 +15,9 @@
  <!--<div>
   <a href="https://github.com/alexiagregorio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiagregorio&layout=compact&langs_count=16&theme=dracula"/>
-</div> -->
+</div> 
   
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexiagregorio&show_icons=true&theme=radical)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexiagregorio&show_icons=true&theme=radical) -->
 
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
