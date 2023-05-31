@@ -4,7 +4,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: INTJ, Ravenclaw
 
-| <a href="https://github.com/diamondyhand?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexiagregorio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a> | <a href="https://github.com/diamondyhand?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiagregorio&layout=compact&theme=buefy&hide_border=true" /> </a> |
+<!--| <a href="https://github.com/diamondyhand?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexiagregorio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a> | <a href="https://github.com/diamondyhand?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiagregorio&layout=compact&theme=buefy&hide_border=true" /> </a> | -->
 
 
 <!--<div>
@@ -14,14 +14,16 @@
 </div>-->
 
 
- <!--<div>
+ <!-- <div>
   <a href="https://github.com/alexiagregorio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiagregorio&layout=compact&langs_count=16&theme=dracula"/>
-</div> 
+</div> -->
   
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexiagregorio&show_icons=true&theme=radical) -->
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexiagregorio&show_icons=true&theme=radical) 
 
 <div style="display: inline_block"><br>
+  <a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank"><img align="center" alt="PHP" height="70px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg"> </a>
+   <a href="https://laravel.com/" target="_blank"><img align="left" alt="Laravel" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
   <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" height='42px'/> </a>
@@ -29,8 +31,7 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
   
   <!--<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-  <img align="center" alt="Rafa-PHP" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> -->
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a> -->
    <!-- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-->
    <!--<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <!--<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
