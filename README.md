@@ -19,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiagregorio&layout=compact&langs_count=16&theme=dracula"/>
 </div> -->
   
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexiagregorio&show_icons=true&theme=radical) 
+<!--![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=alexiagregorio&show_icons=true&theme=radical) --
 
 <div style="display: inline_block"><br>
   <a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank"><img align="center" alt="PHP" height="70px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg"> </a>
