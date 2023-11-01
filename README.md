@@ -4,6 +4,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: INTJ, Ravenclaw
 
+
+
 <!--| <a href="https://github.com/diamondyhand?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexiagregorio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a> | <a href="https://github.com/diamondyhand?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiagregorio&layout=compact&theme=buefy&hide_border=true" /> </a> | -->
 
 
@@ -38,6 +40,14 @@
 </div>-->
 
 ##
+<div>
+  <!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://jharohit.com.np/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexiagregorio&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
+</div>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
 <tr>
