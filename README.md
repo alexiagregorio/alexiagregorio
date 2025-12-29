@@ -1,6 +1,6 @@
 ### Hi there! I'm Alexia 👋
 
-- 🌱 I’m currently learning JavaScript and PHP.
+- 🌱 Constantly learning.
 - 😄 Pronouns: she/her
 - ⚡ Fun facts: INTJ, Ravenclaw
 
